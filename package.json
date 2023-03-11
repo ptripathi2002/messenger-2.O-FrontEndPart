@@ -49,5 +49,5 @@
       "last 1 safari version"
     ]
   },
-  "proxy": "`${process.env.BACKEND_URL}`"
+  "proxy": "https://messenger-2-o.onrender.com/"
 }
